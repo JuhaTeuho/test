@@ -10,3 +10,4 @@ osmnx
 nltk
 wordcloud
 textblob
+tensorflow
