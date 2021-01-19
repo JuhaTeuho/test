@@ -13,4 +13,4 @@ jobs:
       with:
         DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
-        MYBINDERORG_CACHE: true# This is a basic workflow to help you get started with Actions
+        BINDER_CACHE: true# This is a basic workflow to help you get started with Actions
