@@ -1,0 +1,12 @@
+jupyter-book
+matplotlib
+numpy
+ghp-import
+pandas
+geopandas
+mapclassify
+descartes
+osmnx
+nltk
+wordcloud
+textblob
